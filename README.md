@@ -53,6 +53,7 @@ System Switch: GPIO5
    #define BLYNK_AUTH_TOKEN "Your_Auth_Token"
    
 4. Configure WiFi credentials:
+   ```cpp
    #define WIFI_SSID "WiFi_SSID"
-  #define WIFI_PASS "WiFi_password"
+   #define WIFI_PASS "WiFi_password"
    
